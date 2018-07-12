@@ -1,5 +1,12 @@
-[![Travis Build Status](https://travis-ci.org/wycats/handlebars.js.png?branch=master)](https://travis-ci.org/wycats/handlebars.js)
-[![Selenium Test Status](https://saucelabs.com/buildstatus/handlebars)](https://saucelabs.com/u/handlebars)
+WARNING
+=======
+
+Do not rely on the particular behavior of this fork of Handlebars.js!
+This is a temporary fork and we intend to replace it with a newer version
+of Handlebars.js in the 9.0 release of Sugar.
+
+SugarCRM Inc. does **not** intend to support this fork and does not
+recommend its use of the Sugar platform.
 
 Handlebars.js
 =============
