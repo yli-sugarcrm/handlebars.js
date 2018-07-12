@@ -96,7 +96,7 @@ module.exports = function(grunt) {
     uglify: {
       options: {
         mangle: true,
-        compress: true,
+        compress: {}, // see https://github.com/gruntjs/grunt-contrib-uglify/issues/298
         preserveComments: 'some'
       },
       dist: {
