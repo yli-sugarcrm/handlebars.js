@@ -6,7 +6,7 @@ This is a temporary fork and we intend to replace it with a newer version
 of Handlebars.js in the 9.0 release of Sugar.
 
 SugarCRM Inc. does **not** intend to support this fork and does not
-recommend its use of the Sugar platform.
+recommend its use outside of the Sugar platform.
 
 Handlebars.js
 =============
