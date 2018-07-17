@@ -1,7 +1,6 @@
 WARNING
 =======
 
-Do not rely on the particular behavior of this fork of Handlebars.js!
 This is a temporary fork and we intend to replace it with a newer version
 of Handlebars.js in the 9.0 release of Sugar.
 

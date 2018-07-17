@@ -28,12 +28,11 @@ THE SOFTWARE.
 
 =============================== WARNING ========================================
 
-Do not rely on the particular behavior of this fork of Handlebars.js!
-This is a temporary fork and we intend to replace it with a newer version
-of Handlebars.js in the 9.0 release of Sugar.
+This is a temporary fork and we intend to replace it with a newer version of
+Handlebars.js in the 9.0 release of Sugar.
 
-SugarCRM Inc. does NOT intend to support this fork and does not
-recommend its use outside of the Sugar platform.
+SugarCRM Inc. does not intend to support this fork and does not recommend its
+use outside of the Sugar platform.
 
 ================================================================================
 */
