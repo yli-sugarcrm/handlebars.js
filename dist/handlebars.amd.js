@@ -1,6 +1,6 @@
 /*!
 
- handlebars v1.3.0
+ handlebars v1.3.0-sugarcrm-temporary
 
 Copyright (C) 2011 by Yehuda Katz
 
@@ -28,11 +28,11 @@ THE SOFTWARE.
 
 =============================== WARNING ========================================
 
-This is a temporary fork and we intend to replace it with a newer version of
-Handlebars.js in the 9.0 release of Sugar.
+This is a temporary fork that we intend to discontinue using and/or remove in
+a future version of Sugar.
 
-SugarCRM Inc. does not intend to support this fork and does not recommend its
-use outside of the Sugar platform.
+SugarCRM Inc does not recommend using this fork outside of the Sugar platform.
+Any non-Sugar use cases will not be supported.
 
 ================================================================================
 */
